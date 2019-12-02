@@ -48,7 +48,7 @@ If.defaultProps = {
 export default If;
 ```
 
-> am assuming you already have `prop-types` or whatever type checks package installed in your application.
+> I'm assuming you already have `prop-types` or whatever type checks package installed in your application.
 
 ### Broken images
 
